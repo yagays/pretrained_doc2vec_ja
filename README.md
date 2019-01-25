@@ -1,6 +1,8 @@
 # pretrained doc2vec models on Japanese Wikipedia
 This is a repository of doc2vec models trained on Japanese Wikipedia corpus.
 
+Please See [my blog](https://yag-ays.github.io/project/pretrained_doc2vec_wikipedia/) for more details.
+
 ## Pretrained models
 
 - `dbow300d`
